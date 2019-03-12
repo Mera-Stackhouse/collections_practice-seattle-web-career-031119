@@ -40,8 +40,8 @@ def find_a(array)
     if element[0] == "a"
       new_array << element
     end
-    new_array
   }
+  new_array
 end
 
 # array = ["blake", "ashley", "scott"]
