@@ -50,7 +50,7 @@ def sum_array(array)
   }
 end
 
-def add_s
+def add_s(array)
   array.collect { |element|
     if !array.index(element) == 1 
       element << "s"
