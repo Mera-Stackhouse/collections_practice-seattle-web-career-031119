@@ -40,6 +40,7 @@ def find_a(array)
     if element[0] == "a"
       new_array << element
     end
+    new_array
   }
 end
 
