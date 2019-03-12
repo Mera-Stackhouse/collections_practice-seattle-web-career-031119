@@ -44,5 +44,9 @@ def find_a(array)
   new_array
 end
 
+def sum_array(array)
+  array.sum 
+end
+
 # array = ["blake", "ashley", "scott"]
 # puts kesha_maker(array)
