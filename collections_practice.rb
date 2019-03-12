@@ -50,7 +50,7 @@ def sum_array(array)
   }
 end
 
-# array = [1, 2, 3, 4]
-# puts sum_array(array)
+array = [1, 2, 3, 4]
+puts sum_array(array)
 
 puts [1, 2].sum
