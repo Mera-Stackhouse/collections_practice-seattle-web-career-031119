@@ -62,4 +62,4 @@ end
       
 
 array = ["mera", "is", "cool"]
-puts sum_array(array)
+puts add_s(array)
