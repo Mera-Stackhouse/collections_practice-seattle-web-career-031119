@@ -52,6 +52,7 @@ end
 
 def add_s(array)
   array.collect { |element|
+    binding.pry
     if !array.index(element) == 1 
       element << "s"
     end
