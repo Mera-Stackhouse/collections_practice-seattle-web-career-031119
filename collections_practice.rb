@@ -61,5 +61,5 @@ def add_s(array)
 end
       
 
-# array = [1, 2, 3, 4]
-# puts sum_array(array)
+array = [1, 2, 3, 4]
+puts sum_array(array)
