@@ -21,3 +21,4 @@ def swap_elements(array)
 end
 
 array = [1, 2, 3, 4]
+puts swap_elements(array)
