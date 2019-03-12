@@ -31,5 +31,5 @@ def kesha_maker(array)
   }
 end
 
-# array = [1, 2, 3, 4]
-# puts swap_elements(array)
+array = ["blake", "ashley", "scott"]
+puts kesha_maker(array)
