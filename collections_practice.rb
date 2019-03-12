@@ -29,7 +29,6 @@ end
 
 def kesha_maker(array)
   array.collect { |name|
-    binding.pry
     name[2] = "$"
     name
   }
