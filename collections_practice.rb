@@ -50,5 +50,9 @@ def sum_array(array)
   }
 end
 
+def add_s
+  array.each { |element|
+    if element.index
+
 # array = [1, 2, 3, 4]
 # puts sum_array(array)
