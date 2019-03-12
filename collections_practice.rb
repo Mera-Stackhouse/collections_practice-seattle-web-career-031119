@@ -51,11 +51,8 @@ def sum_array(array)
 end
 
 def add_s(array)
-  
   array.collect { |element|
-    binding.pry
     if !array.index(element) == 1 
-      binding.pry
       element << "s"
     end
   }
