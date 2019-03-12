@@ -60,6 +60,3 @@ def add_s(array)
   }
 end
       
-
-# array = ["mera", "is", "cool"]
-# puts add_s(array)
